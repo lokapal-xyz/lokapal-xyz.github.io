@@ -6,7 +6,7 @@ theme: ["PaperMod"]
 # How many posts per page 
 pagination:
   disableAliases: false
-  pagerSize: 4
+  pagerSize: 10
   path: page
 
 
