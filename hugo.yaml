@@ -11,8 +11,6 @@ pagination:
 
 
 params:
-  twitter:
-    image: "img/LokapalMain.png"
   profileMode:
     enabled: true
     title: "Lokapal" # optional default will be site title
