@@ -1,6 +1,6 @@
 baseURL: https://lokapal-xyz.github.io/
 languageCode: en-us
-title: Lokapal | DAO Consulting & Insights
+title: Lokapal | DAO Insights & Action
 theme: ["PaperMod"]
 
 # How many posts per page 
@@ -14,16 +14,16 @@ params:
   profileMode:
     enabled: true
     title: "Lokapal" # optional default will be site title
-    subtitle: "Bridging Expertise and Innovation in Decentralized Organizations" # optional
+    subtitle: "Bridging Expertise and Engagement in Decentralized Organizations" # optional
     imageUrl: "img/LokapalMain.png" # optional
     imageTitle: "Lokapal" # optional
     imageWidth: 240 # custom size
     imageHeight: 240 # custom size
     buttons:
-      - name: 🔹DAO Consulting
-        url: "consulting"
-      - name: 🔸DAO Insights
+      - name: 🔹Lokapal Insights
         url: "insights"
+      - name: 🔸Lokapal Action
+        url: "action"
 
   socialIcons: # optional
     - name: "linkedin"
@@ -63,10 +63,9 @@ params:
 
   # ICONS
   assets:
-    favicon: "img/favicon.png"
-    favicon: "img/favicon-16x16.png"
-    favicon: "img/favicon-32x32.png"
     favicon: "img/favicon.ico"
+    favicon16x16: "img/favicon-16x16.png"
+    favicon32x32: "img/favicon-32x32.png"
     apple_touch_icon: "img/apple-touch-icon.png"
 
   # search options https://www.fusejs.io/api/options.html

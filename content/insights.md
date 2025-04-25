@@ -1,10 +1,10 @@
 ---
 date: '2025-03-06T21:24:30-03:00'
 draft: false
-title: 'DAO Insights'
+title: 'Lokapal Insights'
 ---
 
-DAO Insights is the knowledge and research hub of Lokapal, dedicated to advancing understanding in decentralized governance, DAO structures, and philosophical underpinnings of decentralization. It consists of three key areas:
+Lokapal Insights is the knowledge and research hub of Lokapal, dedicated to advancing understanding in decentralized governance, DAO structures, and philosophical underpinnings of decentralization. It consists of three key areas:
 
 ## 🔹HowToDAO
 HowToDAO is an educational initiative dedicated to documenting, categorizing, and structuring knowledge about DAO governance, security, and best practices. It offers:
