@@ -8,11 +8,15 @@ This is the practical arm of the Lokapal project — a place where education, re
 
 ## 🔹DAO Literacy  
 **Bridging DAO concepts to wider audiences.**  
-Lokapal Literacy supports clear, accessible communication for both Web3-native and non-Web3 audiences. It builds on our educational work in [**HowToDAO**](https://lokapal-xyz.github.io/education/), transforming complex governance ideas into simple, engaging narratives. Through articles, threads, visuals, and talks, we aim to strengthen understanding across the space and beyond.
+DAO Literacy supports clear, accessible communication for both Web3-native and non-Web3 audiences. It builds on our educational work in [**HowToDAO**](https://lokapal-xyz.github.io/education/), transforming complex governance ideas into simple, engaging narratives. Through articles, threads, visuals, and talks, we aim to strengthen understanding across the space and beyond.
+
+🔸 Explore [**DAO Literacy**](https://lokapal-xyz.github.io/action/literacy/)
 
 ## 🔹DAO Spotlight  
 **Independent deep dives into DAOs and decentralized governance.**  
 DAO Spotlight is where research meets curiosity. This initiative features detailed explorations of active DAOs and governance phenomena — looking at what works, what struggles, and why. These Spotlights may evolve into public conversations, roundtables, or commissioned analysis, but always retain a spirit of constructive inquiry. It's the grounded application of both [**DAO Horizons**](https://lokapal-xyz.github.io/research/) and [**Conciliatorics**](https://lokapal-xyz.github.io/foundations/).
+
+🔸 Explore [**DAO Spotlight**](https://lokapal-xyz.github.io/action/dao-spotlight/)
 
 ## 🔹DAO Partnerships  
 **Special collaborations with DAOs and protocols.**  
@@ -23,8 +27,6 @@ Lokapal is open to forming long-term, mutual relationships with aligned organiza
 For DAOs facing complex decisions, evolving their structure, or seeking outside insight, Lokapal offers private advisory services. This may be a one-time consultation on a high-stakes proposal, or ongoing support through periods of transformation. While this is the most formalized offering in Lokapal Action, it’s grounded in the same principles: clarity, curiosity, and care for the future of decentralized systems.
 
 ---
-
-Lokapal Action reflects the living pulse of our work — an evolving bridge between thought and practice. If you’re building, exploring, or simply seeking meaningful conversations around decentralized governance, we’d love to connect.
 
 🔸For inquiries and collaborations, visit our [**Contact page**](/contact/). 
 

@@ -15,7 +15,7 @@ To meet that challenge, Lokapal bridges theory and practice through two pillars:
 ## 🔹Lokapal Insights  
 **Where ideas take shape.**
 
-Lokapal Insights is the intellectual backbone of the project. It’s where we investigate, clarify, and communicate the key elements that define DAOs today and tomorrow. This work unfolds across three branches:
+[**Lokapal Insights**](https://lokapal-xyz.github.io/insights/) is the intellectual backbone of the project. It’s where we investigate, clarify, and communicate the key elements that define DAOs today and tomorrow. This work unfolds across three branches:
 
 🔸 **Lokapal Education: HowToDAO**  
   A practical, open guide to understanding DAOs — designed for both newcomers and experienced builders.  
@@ -31,7 +31,7 @@ Lokapal Insights is the intellectual backbone of the project. It’s where we in
 ## 🔹Lokapal Action  
 **Where ideas are put to work.**
 
-Lokapal Action is the application of our insights. This is where research, education, and philosophy become real-world contributions to DAO ecosystems. It unfolds through four concrete modes of engagement:
+[**Lokapal Action**](https://lokapal-xyz.github.io/act/) is the application of our insights. This is where research, education, and philosophy become real-world contributions to DAO ecosystems. It unfolds through four concrete modes of engagement:
 
 🔸 **DAO Literacy**  
   Simplifying and communicating complex DAO concepts for both Web3-native and general audiences.  

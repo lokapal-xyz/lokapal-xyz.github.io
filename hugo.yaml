@@ -23,7 +23,7 @@ params:
       - name: 🔹Lokapal Insights
         url: "insights"
       - name: 🔸Lokapal Action
-        url: "action"
+        url: "act"
 
   socialIcons: # optional
     - name: "linkedin"
