@@ -1,6 +1,6 @@
 baseURL: https://lokapal-xyz.github.io/
 languageCode: en-us
-title: Lokapal | DAO Insights & Action
+title: Lokapal | Welcome
 theme: ["PaperMod"]
 
 # How many posts per page 
@@ -14,28 +14,16 @@ params:
   profileMode:
     enabled: true
     title: "Lokapal" # optional default will be site title
-    subtitle: "Bridging Expertise and Engagement in Decentralized Organizations" # optional
+    subtitle: "Choose Your Language | Elige tu idioma" # optional
     imageUrl: "img/LokapalMain.png" # optional
     imageTitle: "Lokapal" # optional
     imageWidth: 240 # custom size
     imageHeight: 240 # custom size
     buttons:
-      - name: 🔹Lokapal Insights
-        url: "insights"
-      - name: 🔸Lokapal Action
-        url: "act"
-
-  socialIcons: # optional
-    - name: "linkedin"
-      url: "https://www.linkedin.com/in/ricardo-mauro-pintos/"
-    - name: "x"
-      url: "https://x.com/lokapalxyz"
-    - name: "substack"
-      url: "https://substack.com/@lokapal"
-    - name: "github"
-      url: "https://github.com/lokapal-xyz"
-    - name: "telegram"
-      url: "https://t.me/lokapalxyz"
+      - name: 🇬🇧 English
+        url: "https://lokapal-xyz.github.io/en/"
+      - name: 🇪🇸 Español
+        url: "https://lokapal-xyz.github.io/es/"
 
   # defaultTheme: light
   # defaultTheme: dark
@@ -60,7 +48,6 @@ params:
   # Enable Social-Metadata and SEO
   env: production
 
-
   # ICONS
   assets:
     favicon: "img/favicon.ico"
@@ -68,41 +55,5 @@ params:
     favicon32x32: "img/favicon-32x32.png"
     apple_touch_icon: "img/apple-touch-icon.png"
 
-  # search options https://www.fusejs.io/api/options.html
-  fuseOpts:
-    location: 0
-    distance: 10
-    threshold: 0
-    minMatchCharLength: 3
-    #includeScore: true
-
-
 # To use short code emojis
 enableEmoji: true
-
-# necessary for search
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON 
-
-# Add menu to site. You can add menu entries which will appear in the header of every page.
-# name controls what will be displayed for the menu entry. 
-# url sets the URL that the entry points to. weight is used to control the positioning of entries.
-# For more information on menus, see the Hugo wiki page.
-menu:
-  main:
-    - identifier: news
-      name: 📰News
-      url: /news/
-      weight: 1
-    - identifier: about
-      name: 🪧About
-      url: /about/
-      weight: 2
-    - identifier: contact
-      name: 🖱️Contact
-      url: /contact/
-      weight: 3
-

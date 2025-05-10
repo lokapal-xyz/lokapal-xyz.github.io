@@ -81,6 +81,11 @@ a:hover {
     animation: fadeIn 0.5s ease-in forwards;
 }
 
+/* fifth */
+.profile .button{
+    font-size: 22px;
+}
+
 /* Watermark */
 .post-content,
 .post-entry,
